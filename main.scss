@@ -637,13 +637,16 @@ table {
 	}
 	.photo3{
 		flex-direction: column;
+		margin: 0;
 	}
 	.first{
 		width: 80%;
 		height: 212px;
+		margin-bottom: 2%;
 	}
 	.second{
 		width: 80%;
+		margin-bottom: 2%;
 	}
 	.tx1{
 		font-size: 12px;
